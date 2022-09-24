@@ -139,7 +139,7 @@ Antes, vamos colocar um **height** para que o container ocupe toda a tela.
 }
 ```
 
-image - grid-template-rows
+![grid-template-rows](https://user-images.githubusercontent.com/76978748/192120175-bc27df89-e423-4f31-888d-9cc56c2ad640.png)
 
 ```css
 .container {
@@ -150,7 +150,7 @@ image - grid-template-rows
 }
 ```
 
-image - grid-template-rows-repeat
+![grid-template-rows-repeat](https://user-images.githubusercontent.com/76978748/192120184-01dc2be9-0f2f-465c-a7c2-063578a80faf.png)
 
 ## [05:51](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=351s) — grid-gap, grid-column-gap e grid-row-gap
 
@@ -168,7 +168,7 @@ image - grid-template-rows-repeat
 }
 ```
 
-image - grid-gap
+![grid-gap](https://user-images.githubusercontent.com/76978748/192120192-4bde2d7d-64d2-4f92-841d-6139c95d7efb.png)
 
 - **grid-row-gap** cria uma margem apenas entre as linhas:
 
@@ -185,7 +185,7 @@ image - grid-gap
 
 ```
 
-image - grid-row-gap
+![grid-row-gap](https://user-images.githubusercontent.com/76978748/192120198-df5edac5-50bf-4e35-9fd2-2df73197f418.png)
 
 - **grid-column-gap** cria uma margem apenas entre as colunas:
 
@@ -201,7 +201,7 @@ image - grid-row-gap
 }
 ```
 
-image - grid-column-gap
+![grid-column-gap](https://user-images.githubusercontent.com/76978748/192120211-a037ff03-f207-4ce6-a565-e505f62f0140.png)
 
 ## [06:32](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=392s) — grid-auto-rows
 
@@ -219,7 +219,7 @@ image - grid-column-gap
 }
 ```
 
-image - grid-auto-rows
+![grid-auto-rows](https://user-images.githubusercontent.com/76978748/192120235-4220b55d-2f80-4d53-b75a-29afe2dcf75f.png)
 
 ```css
 .container {
@@ -233,7 +233,7 @@ image - grid-auto-rows
 }
 ```
 
-image - grid-auto-rows-nao-responsivo
+![grid-auto-rows-nao-responsivo](https://user-images.githubusercontent.com/76978748/192120239-199c5af6-d481-4bd6-ad70-c8a9ada7ca3f.png)
 
 Uma forma de declarar o **grid-auto-rows** responsivo:
 
@@ -248,9 +248,9 @@ Uma forma de declarar o **grid-auto-rows** responsivo:
 }
 ```
 
-image - grid-auto-rows-minmax
+![grid-auto-rows-minmax](https://user-images.githubusercontent.com/76978748/192120270-6f760cee-1f64-41a8-b97f-36e798c50b00.png)
 
-image - grid-auto-rows-minmax-2
+![grid-auto-rows-minmax-2](https://user-images.githubusercontent.com/76978748/192120273-71e32a1d-faa9-4e45-8034-16b40cb1dadf.png)
 
 Importante lembrar que o **auto** será relativo ao **height**.
 
@@ -307,7 +307,7 @@ Define a coluna que o item inicia e termina, levando em consideração as linhas
 }
 ```
 
-image - grid-column
+![grid-column](https://user-images.githubusercontent.com/76978748/192120281-be66e3ed-8018-4873-af14-e01c2712b5b5.png)
 
 Os itens que não têm o grid-column definido, são jogados para baixo.
 
@@ -344,7 +344,7 @@ body {
 
 ```
 
-image - grid-row
+![grid-row](https://user-images.githubusercontent.com/76978748/192120288-4bbf2615-f39a-47d4-9ddd-8614e961a1c7.png)
 
 ```css
 .box-1 {
@@ -356,7 +356,7 @@ image - grid-row
 }
 ```
 
-image - grid-row-box4
+![grid-row-box4](https://user-images.githubusercontent.com/76978748/192120295-ea65fd86-d827-4f5b-ae29-fa43228484d3.png)
 
 ## [15:53](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=953s) — grid-template-areas
 
@@ -411,7 +411,7 @@ image - grid-row-box4
 }
 ```
 
-image - grid-template-areas
+![grid-template-areas: ](https://user-images.githubusercontent.com/76978748/192120298-2be08266-3893-4c00-a7b8-bd8f10d5c4a1.png)
 
 ## [18:06](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=1086s) — grid-area
 
@@ -456,7 +456,7 @@ Alinha os itens na vertical e execeto a propriedade **stretch** o item só vai o
 }
 ```
 
-image - align-items-stretch 
+![align-items-stretch ](https://user-images.githubusercontent.com/76978748/192120319-ab54b740-b84d-4863-8d62-14c9a5afe4bf.png)
 
 - align-items: center
 
@@ -476,7 +476,7 @@ image - align-items-stretch
 }
 ```
 
-image - align-items-center
+![align-items-center](https://user-images.githubusercontent.com/76978748/192120327-811e5535-c0fb-4ed0-92ce-9deb40e7062c.png)
 
 - align-items: start
 
@@ -496,7 +496,7 @@ image - align-items-center
 }
 ```
 
-image - align-items-start
+![align-items-start](https://user-images.githubusercontent.com/76978748/192120338-6cb621eb-2023-43f3-8664-7de7fcafbe6b.png)
 
 - align-items: end
 
@@ -516,7 +516,7 @@ image - align-items-start
 }
 ```
 
-image - align-items-end
+![align-items-end](https://user-images.githubusercontent.com/76978748/192120347-00fc0e63-22a4-4f0b-94bd-33f0d76161d9.png)
 
 ## [23:56](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=1436s) — justify-items
 
@@ -541,7 +541,7 @@ Alinha os itens na horizontal e execeto a propriedade **stretch** o item só vai
 }
 ```
 
-image - justify-items-stretch
+![justify-items-stretch](https://user-images.githubusercontent.com/76978748/192120354-6e8f3b99-39a2-41b5-9f6d-439362e21d4f.png)
 
 - justify-items: center
 
@@ -562,7 +562,7 @@ image - justify-items-stretch
 }
 ```
 
-image - justify-items-center
+![justify-items-center](https://user-images.githubusercontent.com/76978748/192120362-9415271a-7616-48a8-bad4-ba63a6a63125.png)
 
 - justify-items: start
 
@@ -583,7 +583,7 @@ image - justify-items-center
 }
 ```
 
-image - justify-items-start
+![justify-items-start](https://user-images.githubusercontent.com/76978748/192120400-b8545eb6-654f-4a5b-b8db-005929f680f7.png)
 
 - justify-items: end
 
@@ -604,7 +604,7 @@ image - justify-items-start
 }
 ```
 
-image - justify-items-end
+![justify-items-end](https://user-images.githubusercontent.com/76978748/192120405-ac6407f4-e916-47d8-a7c7-e8903c9c0a2d.png)
 
 ## [25:33](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=1533s) — align-self
 
@@ -634,7 +634,7 @@ Alinha apenas o item que foi aplicado:
 }
 ```
 
-image - align-self-start
+![align-self-start;](https://user-images.githubusercontent.com/76978748/192120411-f6127dc8-a717-4a41-97b8-a72c70773360.png)
 
 - align-self: center
 
@@ -660,7 +660,7 @@ image - align-self-start
 }
 ```
 
-image - align-self-center
+![align-self-center](https://user-images.githubusercontent.com/76978748/192120415-c6b2fb79-e604-453f-a1b2-cacd33359d0a.png)
 
 - align-self: end
 
@@ -686,7 +686,7 @@ image - align-self-center
 }
 ```
 
-image - align-self-end
+![align-self-end](https://user-images.githubusercontent.com/76978748/192120421-93efea46-fbb5-4c87-b0dd-de807e3fb467.png)
 
 ## [25:56](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=1556s) — justify-self
 
@@ -718,7 +718,7 @@ Alinha apenas o item que foi aplicado:
 
 ```
 
-image - justify-self-start
+![justify-self-start](https://user-images.githubusercontent.com/76978748/192120438-c7e8ea42-b75f-4bd0-86eb-d139220d6c20.png)
 
 - justify-self: center;
 
@@ -745,7 +745,7 @@ image - justify-self-start
 }
 ```
 
-image - justify-self-center;
+![justify-self-center](https://user-images.githubusercontent.com/76978748/192120442-3158a899-f450-4adc-9ad0-79724106fdca.png)
 
 - justify-self: end;
 
@@ -772,7 +772,7 @@ image - justify-self-center;
 }
 ```
 
-image - justify-self-end;
+![justify-self-end](https://user-images.githubusercontent.com/76978748/192120445-bca6805c-4c9f-4020-8f5f-eceeab55eecd.png)
 
 ## [26:21](https://www.youtube.com/watch?v=j_fzKbfH7W4&t=1581s) — Conclusão
 
