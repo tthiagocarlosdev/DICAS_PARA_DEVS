@@ -61,7 +61,7 @@ Define as colunas que o nosso container irá ter:
 }
 ```
 
-image - grid-template-columns
+![grid-template-columns](https://user-images.githubusercontent.com/76978748/192115033-1efd4be3-f73c-479d-9c89-49393024b32c.png)
 
 Podemos utilizar também porcentagem que é até melhor do que px, pois px não é responsivo:
 
@@ -72,7 +72,7 @@ Podemos utilizar também porcentagem que é até melhor do que px, pois px não 
 }
 ```
 
-image - grid-template-columns-porcentagem
+![grid-template-columns-porcentagem](https://user-images.githubusercontent.com/76978748/192115046-d64098b3-66be-46c8-a2d9-9a0509355fd8.png)
 
 Porém a medida principal que é usada é o **fr** (fração):
 
@@ -83,7 +83,7 @@ Porém a medida principal que é usada é o **fr** (fração):
 }
 ```
 
-image - grid-template-columns-fr
+![grid-template-columns-fr](https://user-images.githubusercontent.com/76978748/192115050-57023c7b-6f3d-475e-a94a-5852841fdb1a.png)
 
 Outra forma: 
 
@@ -94,7 +94,7 @@ Outra forma:
 }
 ```
 
-image - grid-template-columns-repeat
+![grid-template-columns-repeat](https://user-images.githubusercontent.com/76978748/192115062-303dd0b0-60f4-431d-ab36-cef2e8c096b2.png)
 
 ### Ajustando HTML para aplicar a propriedade grid-template-rows
 
